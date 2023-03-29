@@ -1,0 +1,18 @@
+* {
+    background-color: aqua;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.head-img {
+    width: 500px;
+    height: auto;
+}
+
+ol,
+ul {
+    list-style-position: inside;
+}
